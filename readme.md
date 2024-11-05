@@ -4,4 +4,8 @@ _C'est a dire le nombre de fois qu'elle a ete vue_
 
 ***Comment l'installer ?***
 
-_il vous faudra copier le code et le coller dans vscode, dans le code de votre projet._
+_1-Créé un fichier compteur_
+
+_2-il vous faudra ensuite copier le code et le coller dans votre fichier sur vscode._
+
+ 
