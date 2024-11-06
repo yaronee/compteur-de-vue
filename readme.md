@@ -34,13 +34,7 @@
     php -v
 
 
-  3. **Configurer un Serveur Local**
-
-•  **Option si vous n'avez pas de serveur** : PHP dispose d’un serveur intégré, donc si vous ne voulez pas installer de serveur supplémentaire, vous pouvez utiliser le serveur intégré en exécutant la commande suivante dans votre projet :
-
-    php -S localhost:8000
-
-•  Accédez ensuite à http://localhost:8000 dans votre navigateur pour voir le projet en cours d’exécution.
+ 
 
 **3. Structure de Projet**
 
@@ -57,15 +51,10 @@ Créez un dossier pour votre projet, par exemple compteur_vue. La structure de b
        data /
         └──  vue.txt    # Fichier pour stocker le nombre de vues
 
-**4. Créer le Fichier data.txt**
-
-  
-•  Créez un dossier data et ajouter un fichier vue.txt.
 
 
-**5. Remplir le Code**
 
-**6. Exécuter et Tester le Projet**
+**4. Exécuter et Tester le Projet**
 
   
 
